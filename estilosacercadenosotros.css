@@ -1,0 +1,65 @@
+.navbar.navbar-expand-sm.bg-dark.navbar-dark a {
+    margin-left: 15px;;
+}
+
+.navbar-brand {
+    font-size: 35px;
+    color: rgb(94, 94, 94);
+}
+
+.nav-link {
+    font-size: 14px;
+    color: rgb(94, 94, 94);
+}
+
+.navbar.navbar-expand-sm.bg-dark.navbar-dark {
+    background-color:white;
+    color: rgb(94, 94, 94);
+}
+
+#titulo {
+    color: black;
+    margin-left: 35px;;
+}
+
+#collapsibleNavbar {
+    color: rgb(94, 94, 94);
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color:rgb(94, 94, 94);
+}
+
+#buscarboton {
+    display: flex;
+    flex: end;
+    margin-right: 35px;
+}
+hr {
+    border: 1px solid rgb(34, 33, 33);
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.d-flex.justify-content-around p {
+    margin-right: 5px;
+    text-decoration: none;
+    font-size: 11px;
+}
+
+.d-flex.justify-content-around {
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(94, 94, 94);
+}
+
+.imgfooter {
+    margin-right: 20px;
+}
+
+.mapa {
+    align-items: center;
+}
